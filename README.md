@@ -1,4 +1,4 @@
-# My BIography
+# My Biography
 ## Author
 Clara Metto
 ## Description
