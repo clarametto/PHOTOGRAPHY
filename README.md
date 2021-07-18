@@ -1,9 +1,11 @@
-# Music Band
+# My BIography
 ## Author
 Clara Metto
 ## Description
-This is a website about my biography,photos and my favorite music band. 
-See the design on figma [live](https://www.figma.com/file/gK3BaDvzs9uHJtuFsFRLWH/Untitled?node-id=0%3A1)### Prerequisites
+This is a website about my biography,photos and my favorite music band.
+## Design
+See the design on figma [live](https://www.figma.com/file/gK3BaDvzs9uHJtuFsFRLWH/Untitled?node-id=0%3A1)
+### Prerequisites
 You need to have git installed
 You can install it with the following command in your terminal
 `$ sudo apt install git-all`
