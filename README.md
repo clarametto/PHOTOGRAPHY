@@ -18,6 +18,8 @@ To access this project on your local files, you can clone it using these steps
 1. HTML
 1. CSS
 1. Git
+### Contact info
+Email: clara.metto@student.moringaschool.com
 ### Live Site
 View [live](https://clarametto.github.io/PHOTOGRAPHY/)
 This project is under:
